@@ -60,3 +60,4 @@ Awards
 Service and leadership
 ======
 * Member of the Happy hour committee in the Molecular Genetics Department. ;)
+* Editor of the [WIS survival guide](https://docs.google.com/document/d/14YUnl4e3VqpIXZUVOEiClNTWBcETpfULVF4ypybaEHQ/edit?usp=sharing)
