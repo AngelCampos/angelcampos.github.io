@@ -9,8 +9,6 @@ tags:
   - Computational Biology
 ---
 
-**--ENTRY IN PROGRESS--**
-
 This is a list of some resources I find useful to 
 conduct data analysis in Life Sciences Research,
 some of them more specific to the field of Genomics,
@@ -41,10 +39,11 @@ for many basic data analyisi tasks
 An amazing guide on how to explore, manipulate, program, model, and communicate for Data Science, (Intermediate lvl.).
 
 - [R packages by Hadley Wickham](https://r-pkgs.org/index.html) A great practical reference 
-to creating R packages using the R package devtools. It has been the main source of help to develop 
-my R packages.
+to creating R packages using the R package devtools. This book alone is what allowed me to 
+create my first R package [txtools](https://angelcampos.github.io/txtools/).
 
-- [Advanced R]
+- [Advanced R](https://adv-r.hadley.nz/). 
+
 ### Bioconductor
 
 - Rsamtools

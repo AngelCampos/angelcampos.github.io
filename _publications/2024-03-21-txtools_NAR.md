@@ -1,7 +1,7 @@
 ---
 title: "txtools: an R package facilitating analysis of RNA modifications, structures, and interactions"
 collection: articles
-permalink: /publication/2024-03-21_txtools
+permalink: /publication/2024-03-21_txtools_NAR
 excerpt: "We present txtools, an R package that enables the processing, analysis,
  and visualization of RNA-seq data at the nucleotide-level resolution, 
  seamlessly integrating alignments to the genome with transcriptomic representation.
