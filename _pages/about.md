@@ -56,6 +56,9 @@ e=d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 ## Status Updates
 
+
+* **26-November-2025 - Published work:** Garcia-Campos, M.A., et al. ["Pan-modification profiling facilitates a cross-evolutionary dissection of the thermoregulated ribosomal epitranscriptome"](https://www.cell.com/cell/abstract/S0092-8674(25)01082-7) *Cell* (2025).
+* **30-June-2025 - Published work:** Dierks D., et al. ["Passive shaping of intra- and intercellular m6A dynamics via mRNA metabolism"](https://elifesciences.org/articles/100448) *eLife* (2025).
 * **14-May-2024 - Published preprint:** Dierks, D. et al., [Passive shaping of intra- and intercellular m6A dynamics via mRNA metabolism](https://www.biorxiv.org/content/10.1101/2024.05.09.593376v1).
 * **21-March-2024 - Published work:** Garcia-Campos M.A. & Schwartz S. [txtools: an R package facilitating analysis of RNA modifications, structures, and interactions](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae203/7632932).
 * **15-February-2024 - Published work:** Shachar, R. et al., [Dissecting the sequence and structural determinants guiding m6A deposition and evolution via inter- and intra-species hybrids](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03182-1).

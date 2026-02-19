@@ -2,8 +2,7 @@
 title: "Pan-modification profiling facilitates a cross-evolutionary dissection of the thermoregulated ribosomal epitranscriptome"
 collection: articles
 permalink: /publication/2025-11-26_PanModSeq_Cell
-excerpt: "Pan-Mod-seq enables high-throughput profiling of 16 rRNA modifications across diverse species, revealing that while these chemical markers are largely static in mesophiles, they are highly dynamic in hyperthermophiles. Specifically, a conserved m<sup>5</sup>C-ac<sup>4</sup>C module is co-induced by heat and serves a critical role in stabilizing ribosome structure at extreme temperatures. Cryo-EM and biophysical analyses confirm that this modification module provides essential thermostability required for hyperthermophilic growth.
- .<br/><br/><img src='/images/publications_figs/panModSeq_thumb.png'><br/>"
+excerpt: "Pan-Mod-seq enables high-throughput profiling of 16 rRNA modifications across diverse species, revealing that while these chemical markers are largely static in mesophiles, they are highly dynamic in hyperthermophiles. Specifically, a conserved m<sup>5</sup>C-ac<sup>4</sup>C module is co-induced by heat and serves a critical role in stabilizing ribosome structure at extreme temperatures. Cryo-EM and biophysical analyses confirm that this modification module provides essential thermostability required for hyperthermophilic growth. <br/><br/><img src='/images/publications_figs/panModSeq_thumb.png'><br/>"
 date: 2025-11-26
 venue: 'Cell'
 paperurl: 'https://www.cell.com/cell/abstract/S0092-8674(25)01082-7' 
@@ -25,9 +24,12 @@ Ribosomal RNA (rRNA) constitutes the core of ribosomes and is extensively chemic
 
 <dl>
 	<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
-	<a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.cell.2025.09.014" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Pan-modification profiling facilitates a cross-evolutionary dissection of the thermoregulated ribosomal epitranscriptome</a>
+	<a href="https://plu.mx/plum/a/?doi=10.1016/j.cell.2025.09.014" class="plumx-details" data-site="plum" data-hide-when-empty="true">Deciphering the “m 6 A Code” via Antibody-Independent Quantitative Profiling</a>
 </dl>
 
 <dl>
-	<script type="text/javascript" src="https://embed.altmetric.com/assets/embed.js"></script>
+	<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+	<div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1016/j.cell.2025.09.014" class="altmetric-embed"></div>
 </dl>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cell.2025.09.014"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>

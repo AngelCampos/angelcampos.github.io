@@ -17,7 +17,7 @@ N6-methyladenosine (m 6A) is the most abundant modification on mRNA and is impli
 
 <dl>
 	<script type="text/javascript" src="//cdn.plu.mx/widget-details.js"></script>
-	<a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.cell.2019.06.013" class="plumx-details" data-site="plum" data-hide-when-empty="true">Deciphering the “m 6 A Code” via Antibody-Independent Quantitative Profiling</a>
+	<a href="https://plu.mx/plum/a/?doi=10.1016/j.cell.2019.06.013" class="plumx-details" data-site="plum" data-hide-when-empty="true">Deciphering the “m 6 A Code” via Antibody-Independent Quantitative Profiling</a>
 </dl>
 
 <dl>
@@ -25,4 +25,4 @@ N6-methyladenosine (m 6A) is the most abundant modification on mRNA and is impli
 	<div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1016/j.cell.2019.06.013" class="altmetric-embed"></div>
 </dl>
 
-<span class="__dimensions_badge_embed__" data-id="pub.1117496457"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1016/j.cell.2019.06.013"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
