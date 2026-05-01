@@ -11,24 +11,25 @@ redirect_from:
 ![alt text](images/topCover.jpg "Makhtesh Ramon Crater")
 
 Hello, my name is Miguel. I am a biologist with great interest in understanding 
-life from a quantitative and systematic perspective. My current efforts are 
+life from a quantitative and systematic perspective. My latest work was 
 focused on advancing the understanding of RNA modifications, working in the 
 development of technologies to detect and quantify different moieties across 
-whole transcriptomes. 
+whole transcriptomes. I am curently looking for a prospective lab to continue 
+my work as a postdoctoral fellow in a more translational research environment.
+Aging, cancer, and immunosenescence are some of the fields I am more deeply interested.
 
 I am currently an academic collaborator at the [Schwartz Lab](http://www.weizmann.ac.il/molgen/Schwartz/) 
-of the Weizmann Institute of Science, from which I recently graduated as a PhD 
-and I am looking for a prospective lab to continue my work as a postdoctoral 
-fellow.
+of the Weizmann Institute of Science, in which we study the Epitranscriptome
 
-In the Schwartz lab, we work in the field of Epitranscriptomics, a 
-booming research field that deals with the biochemical modifications 
-of RNA molecules of all living organisms and even viruses. My previous work 
-revolved around [N6-methyladenosine (m6A)](https://en.wikipedia.org/wiki/N6-Methyladenosine).
-m6A is a highly abundant mRNA modification present in all eukaryotes, 
+My latest work ....[PANMODSEQ]
+
+My previous work revolved around 
+[N6-methyladenosine (m6A)](https://en.wikipedia.org/wiki/N6-Methyladenosine).
+m6A is the most abundant mRNA modification present in all eukaryotes, 
 and it has recently received attention as a potential therapeutic target for 
 treating diseases such as Cancer, Osteoporosis, Obesity, and Diabetes. 
-At the SchwartzLab, we developed [a methodology](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2), 
+At the SchwartzLab, we developed 
+[a methodology](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2),
 that is able to detect and quantify m6A in a high-throughput, 
 single-nucleotide, and antibody-independent manner. Using this new technology 
 we uncovered a code that dictates m6A deposition across the transcriptomes of 
