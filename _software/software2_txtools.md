@@ -4,8 +4,8 @@ excerpt: "An R package that processes GenomicAlignments into their transcriptomi
 collection: software
 ---
 
-> **Update!**: txtools now has a [webpage](https://angelcampos.github.io/txtools/) and a 
-[pre-print in bioRxiv](https://www.biorxiv.org/content/10.1101/2023.08.24.554738v1).
+txtools now has a [website](https://angelcampos.github.io/txtools/) and a 
+[peer-reviewed paper](https://academic.oup.com/nar/article/52/8/e42/7632932).
 
 ## Description
 

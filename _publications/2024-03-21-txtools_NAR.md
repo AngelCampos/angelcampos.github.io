@@ -24,5 +24,8 @@ We present txtools, an R package that enables the processing, analysis, and visu
 </dl>
 
 <dl>
-	<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-type="donut" data-altmetric-id="160993540"></div>
+	<script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
+	<div data-badge-details="right" data-badge-type="medium-donut" data-doi="https://doi.org/10.1093/nar/gkae203/7632932" class="altmetric-embed"></div>
 </dl>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1093/nar/gkae203/7632932"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
