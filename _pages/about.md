@@ -10,32 +10,46 @@ redirect_from:
 
 ![alt text](images/topCover.jpg "Makhtesh Ramon Crater")
 
-Hello, my name is Miguel. I am a biologist with great interest in understanding 
-life from a quantitative and systematic perspective. My latest work was 
-focused on advancing the understanding of RNA modifications, working in the 
-development of technologies to detect and quantify different moieties across 
-whole transcriptomes. I am curently looking for a prospective lab to continue 
-my work as a postdoctoral fellow in a more translational research environment.
-Aging, cancer, and immunosenescence are some of the fields I am more deeply interested.
+Hello, my name is Miguel. I am a biologist with great interest in understanding
+life from a quantitative and systematic perspective. My latest work focused on
+advancing the understanding of RNA modifications, working in the development of
+technologies to detect and quantify different moieties across whole
+transcriptomes at the [Schwartz Lab](http://www.weizmann.ac.il/molgen/Schwartz/) 
+of the Weizmann Institute of Science. 
+**I am curently looking for a prospective lab to continue my work as a
+postdoctoral fellow in a more translational research environment. I am interested 
+in taking my experience and expertise to the fields of aging, cancer, and 
+immunosenescence.**
 
-I am currently an academic collaborator at the [Schwartz Lab](http://www.weizmann.ac.il/molgen/Schwartz/) 
-of the Weizmann Institute of Science, in which we study the Epitranscriptome
+My latest work Pan-Mod-seq, published in the *Cell* journal, is an
+[RNA-seq technology that allows to detect and measure 16 different RNA moieties
+in the same workflow](https://www.cell.com/cell/abstract/S0092-8674(25)01082-7), 
+across dozens of samples. This allowed us to interrogate 14
+species across the three domains of the tree of life, six bacterial, six
+archeal, and two eukaryotic organisms, adressing the potential dynamic nature
+of rRNA modifications under different growth conditions. The growing conditions
+we used involved gradients of temperatures, pH, salinity, and growth density.
+Our results showed that rRNA modifications have evolutionarily relevant
+conservation across species of the same domain, and although most detected rRNA
+modifications were not proven to be dynamic in mesophiles, **around 50% of them
+were dynamic in extremophiles**. Furthermore, our results showed that these
+modifications can work synergistically to stabilize rRNA under high
+temperatures, having an exquisite regulation mediated by the coupling of
+secondary structure and temperature change.
 
-My latest work ....[PANMODSEQ]
+I have also developed software to facilitate the processing of RNA-seq data.
+[txtools](https://angelcampos.github.io/txtools/) is an R package that
+processes RNA-seq reads alignments into transcriptomic-oriented tables.
+Enabling a quick and simplified analysis, to closely inspect summarized RNA-seq
+data per transcript, at nucleotide resolution.
 
-My previous work revolved around 
-[N6-methyladenosine (m6A)](https://en.wikipedia.org/wiki/N6-Methyladenosine).
-m6A is the most abundant mRNA modification present in all eukaryotes, 
-and it has recently received attention as a potential therapeutic target for 
-treating diseases such as Cancer, Osteoporosis, Obesity, and Diabetes. 
-At the SchwartzLab, we developed 
-[a methodology](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2),
-that is able to detect and quantify m6A in a high-throughput, 
-single-nucleotide, and antibody-independent manner. Using this new technology 
-we uncovered a code that dictates m6A deposition across the transcriptomes of 
-mouse and yeast, one of our main conclusions is that m6A deposition is strongly 
+Furthermore, I worked in the development of[MAZTER-seq, *Cell*](https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2),
+an RNA-seq technology that is able to detect and quantify [m6A](https://en.wikipedia.org/wiki/N6-Methyladenosine),
+the most abundant mRNA modification present in all eukaryotes, in a high-throughput,
+single-nucleotide, and antibody-independent manner. Using this new technology
+we uncovered a code that dictates m6A deposition across the transcriptomes of
+mouse and yeast, one of our main conclusions is that m6A deposition is strongly
 coded in the RNA sequence of each gene.
-
 
 ## Last Year [GitHub](https://github.com/AngelCampos) contributions *Powered by* [*githubchart-api*](https://github.com/2016rshah/githubchart-api)
 
@@ -57,7 +71,7 @@ e=d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 ## Status Updates
 
-
+* **26-December-2025 - News mention:** Coverage of my work in [The Times of Israel](https://www.timesofisrael.com/israeli-scientists-say-tiny-organisms-can-revamp-their-own-rna-to-survive-extreme-heat/).
 * **26-November-2025 - Published work:** Garcia-Campos, M.A., et al. ["Pan-modification profiling facilitates a cross-evolutionary dissection of the thermoregulated ribosomal epitranscriptome"](https://www.cell.com/cell/abstract/S0092-8674(25)01082-7) *Cell* (2025).
 * **30-June-2025 - Published work:** Dierks D., et al. ["Passive shaping of intra- and intercellular m6A dynamics via mRNA metabolism"](https://elifesciences.org/articles/100448) *eLife* (2025).
 * **14-May-2024 - Published preprint:** Dierks, D. et al., [Passive shaping of intra- and intercellular m6A dynamics via mRNA metabolism](https://www.biorxiv.org/content/10.1101/2024.05.09.593376v1).
