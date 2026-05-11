@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<u><a href="https://drive.google.com/file/d/16iPxRyrwvCl0RtOTxfKWDCkjn7U90hv1/view?usp=sharing">PDF version</a>.</u>
+<u><a href="https://drive.google.com/file/d/1en-Q2qsKYsv_esz4FZwEoMLi8UljfZsq/view?usp=sharing">PDF version</a>.</u>
 
 Education
 ======
