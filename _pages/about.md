@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![alt text](images/topCover.jpg "Popocateptl")
+![alt text](images/topCover.jpg "Makhtesh Ramon Crater")
 
 Hello, my name is Miguel. I am a biologist with great interest in understanding
 life from a quantitative and systematic perspective. My latest work focused on
