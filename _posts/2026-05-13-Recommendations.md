@@ -25,11 +25,11 @@ I color code and sort my tasks by priority
 {<span style="color:lightblue">low</span>.
 <span style="color:green">Medium</span>.
 <span style="color:orange">High</span>.
-<span style="color:red">Highest</span>.}
-and organize them by date of work Backlog, This month, This week, Today}.
+<span style="color:red">Highest</span>.}, then pull them to a column based on the 
+date I intend for the task to be completed on {Backlog, This month, This week, Today, Done}.
 
 I recommend start as simple as possible, make it an habit and then making it your
-own. 
+own customizing the board even more. 
 
 ## Paperpile
 
