@@ -1,0 +1,72 @@
+/* ==========================================================================
+   THEMES (light / dark)
+   ==========================================================================
+
+   Ported from the updated academicpages template (_sass/theme/_default_light.scss
+   and _default_dark.scss), adapted to this fork's flat _sass/ layout.
+
+   The custom-property names match upstream so future cherry-picks line up.
+   Light values are interpolated from _variables.scss, so the light theme stays
+   exactly what it has always been; only the dark block is new.
+
+   Dark mode is applied by adding data-theme="dark" to <html> (see
+   assets/js/theme.js). Light mode = attribute absent.
+   ========================================================================== */
+
+:root {
+  --global-base-color                 : #{$primary-color};
+  --global-bg-color                   : #{$background-color};
+  --global-footer-bg-color            : #{$lighter-gray};
+  --global-border-color               : #{$border-color};
+  --global-dark-border-color          : #{$light-gray};
+  --global-code-background-color      : #{$code-background-color};
+  --global-code-text-color            : #{$darker-gray};
+  --global-fig-caption-color          : #{mix(#fff, $text-color, 25%)};
+  --global-link-color                 : #{$link-color};
+  --global-link-color-hover           : #{$link-color-hover};
+  --global-link-color-visited         : #{$link-color-visited};
+  --global-masthead-link-color        : #{$masthead-link-color};
+  --global-masthead-link-color-hover  : #{$masthead-link-color-hover};
+  --global-text-color                 : #{$text-color};
+  --global-text-color-light           : #{mix(#fff, $gray, 25%)};
+  --global-thead-color                : #{$lighter-gray};
+  --global-muted-color                : #{$gray};
+  --global-selection-color            : #fff;
+  --global-selection-bg-color         : #000;
+  --global-shadow-color               : rgba(0, 0, 0, 0.25);
+  --global-well-bg-color              : #f5f5f5;
+  --global-well-border-color          : #e3e3e3;
+}
+
+/* Dark palette: upstream's #474747 / #fff / #0ea1c5, with borders and table
+   headers darkened so they stay legible in this fork's markup. Code blocks
+   deliberately stay light (as upstream does) so the Solarized Light rouge
+   colors in _syntax.scss remain readable. */
+
+$dark-background                      : #474747;
+$dark-link                            : #35b8d9;
+
+html[data-theme="dark"] {
+  --global-base-color                 : #0ea1c5;
+  --global-bg-color                   : #{$dark-background};
+  --global-footer-bg-color            : #{mix(#000, $dark-background, 20%)};
+  --global-border-color               : #{mix(#fff, $dark-background, 20%)};
+  --global-dark-border-color          : #{mix(#fff, $dark-background, 35%)};
+  --global-code-background-color      : #fafafa;
+  --global-code-text-color            : #{$darker-gray};
+  --global-fig-caption-color          : #{$light-gray};
+  --global-link-color                 : #{$dark-link};
+  --global-link-color-hover           : #{mix(#fff, $dark-link, 30%)};
+  --global-link-color-visited         : #{mix(#fff, $dark-link, 15%)};
+  --global-masthead-link-color        : #fff;
+  --global-masthead-link-color-hover  : #{$dark-link};
+  --global-text-color                 : #fff;
+  --global-text-color-light           : #f3f3f3;
+  --global-thead-color                : #{mix(#fff, $dark-background, 12%)};
+  --global-muted-color                : #f3f3f3;
+  --global-selection-color            : #000;
+  --global-selection-bg-color         : #fff;
+  --global-shadow-color               : rgba(0, 0, 0, 0.5);
+  --global-well-bg-color              : #{mix(#000, $dark-background, 15%)};
+  --global-well-border-color          : #{mix(#fff, $dark-background, 20%)};
+}
