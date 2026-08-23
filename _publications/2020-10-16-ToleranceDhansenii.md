@@ -2,7 +2,9 @@
 title: "Tolerance to Oxidative Stress in Budding Yeast by Heterologous Expression of Catalases A and T from Debaryomyces hansenii"
 collection: articles
 permalink: /publication/2020-10-16_ToleranceDhansenii
-excerpt: "In this study  we show the recovery and enhancement of the budding yeast's resistance to oxidative stress by expressing ortholog catalase genes from D. hansenii, a sea yeast. <br/><br/><img src='/images/publications_figs/yeastROS.png'><br/>"
+excerpt: "In this study  we show the recovery and enhancement of the budding yeast's resistance to oxidative stress by expressing ortholog catalase genes from D. hansenii, a sea yeast."
+header:
+  teaser: publications_figs/yeastROS.png
 date: 2020-10-16
 venue: 'Current Microbiology'
 paperurl: 'https://link.springer.com/article/10.1007/s00284-020-02237-3' 

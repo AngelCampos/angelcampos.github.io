@@ -243,3 +243,40 @@
     }
   }
 }
+
+/*
+   Publications list view
+   ========================================================================== */
+
+/* Graphical abstract beside the entry text (see _includes/archive-single-publication.html).
+   Below $small (600px) the figure simply stays in flow, under the text. */
+
+.publication__item {
+
+  .publication__figure {
+    margin: 1em 0;
+
+    img {
+      display: block;
+      max-width: 100%; /* cap, don't stretch: some figures are narrower than the column*/
+      height: auto;
+      border-radius: $border-radius;
+    }
+  }
+
+  @include breakpoint($small) {
+    display: flex;
+    align-items: center; /* centre the figure against the text*/
+
+    .publication__body {
+      flex: 1 1 auto;
+      min-width: 0; /* let the text column shrink instead of overflowing*/
+    }
+
+    .publication__figure {
+      flex: 0 0 auto;
+      max-width: 33%;
+      margin: 0 0 0 1.5em;
+    }
+  }
+}

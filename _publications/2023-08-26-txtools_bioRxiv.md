@@ -2,7 +2,9 @@
 title: 'txtools: an R package facilitating analysis of RNA modifications, structures, and interactions'
 collection: articles
 permalink: /publication/2023-08-26-txtools_bioRxiv
-excerpt: "In this preprint we present txtools, an R package that enables the processing, analysis, and visualization of RNA-seq data at the nucleotide-level resolution, seamlessly integrating alignments to the genome with a transcriptomic representation.<br/><br/><img src='/images/publications_figs/txtools_logo.png'><br/>"
+excerpt: "In this preprint we present txtools, an R package that enables the processing, analysis, and visualization of RNA-seq data at the nucleotide-level resolution, seamlessly integrating alignments to the genome with a transcriptomic representation."
+header:
+  teaser: publications_figs/txtools_logo.png
 date: 2023-08-26
 venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2023.08.24.554738' 

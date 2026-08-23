@@ -2,7 +2,9 @@
 title: "Pan-modification profiling facilitates a cross-evolutionary dissection of the thermoregulated ribosomal epitranscriptome"
 collection: articles
 permalink: /publication/2025-11-26_PanModSeq_Cell
-excerpt: "Pan-Mod-seq enables high-throughput profiling of 16 rRNA modifications across diverse species, revealing that while these chemical markers are largely static in mesophiles, they are highly dynamic in hyperthermophiles. Specifically, a conserved m<sup>5</sup>C-ac<sup>4</sup>C module is co-induced by heat and serves a critical role in stabilizing ribosome structure at extreme temperatures. Cryo-EM and biophysical analyses confirm that this modification module provides essential thermostability required for hyperthermophilic growth. <br/><br/><img src='/images/publications_figs/panModSeq_thumb.png'><br/>"
+excerpt: "Pan-Mod-seq enables high-throughput profiling of 16 rRNA modifications across diverse species, revealing that while these chemical markers are largely static in mesophiles, they are highly dynamic in hyperthermophiles. Specifically, a conserved m<sup>5</sup>C-ac<sup>4</sup>C module is co-induced by heat and serves a critical role in stabilizing ribosome structure at extreme temperatures. Cryo-EM and biophysical analyses confirm that this modification module provides essential thermostability required for hyperthermophilic growth."
+header:
+  teaser: publications_figs/panModSeq_thumb.png
 date: 2025-11-26
 venue: 'Cell'
 paperurl: 'https://www.cell.com/cell/abstract/S0092-8674(25)01082-7' 

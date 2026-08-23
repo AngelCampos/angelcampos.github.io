@@ -2,7 +2,9 @@
 title: "Dissecting the sequence and structural determinants guiding m6A deposition and evolution via inter- and intra-species hybrids"
 collection: articles
 permalink: /publication/2024-02-15_m6ACisTransDissection
-excerpt: "In this paper we dissect the determinants governing RNA methylation via interspecies and intraspecies hybrids in yeast and mammalian systems, coupled with massively parallel reporter assays and m6A-QTL reanalysis.<br/><br/><img src='/images/publications_figs/m6ACisTransDissection.png'><br/>"
+excerpt: "In this paper we dissect the determinants governing RNA methylation via interspecies and intraspecies hybrids in yeast and mammalian systems, coupled with massively parallel reporter assays and m6A-QTL reanalysis."
+header:
+  teaser: publications_figs/m6ACisTransDissection.png
 date: 2024-02-15
 venue: 'BMC - Genome Biology'
 paperurl: 'https://genomebiology.biomedcentral.com/articles/10.1186/s13059-024-03182-1' 

@@ -1,0 +1,45 @@
+{% include base_path %}
+
+{% comment %}
+  Publications listing entry: text on the left, graphical abstract on the right
+  (see .publication__item in _sass/_archive.scss). Used only by _pages/publications.md
+  so that archive-single.html keeps rendering every other collection unchanged.
+
+  The figure comes from `header.teaser` in each _publications/*.md front matter.
+{% endcomment %}
+
+{% assign title = post.title | markdownify | remove: "<p>" | remove: "</p>" %}
+
+<div class="list__item">
+  <article class="archive__item publication__item" itemscope itemtype="http://schema.org/CreativeWork">
+
+    <div class="publication__body">
+      <h2 class="archive__item-title" itemprop="headline">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
+      </h2>
+
+      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+
+      {% if post.excerpt %}
+        <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% if site.read_more == 'enabled' %}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>{% endif %}</p>
+      {% endif %}
+
+      {% if post.citation and post.paperurl %}
+        <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
+      {% elsif post.citation %}
+        <p>Recommended citation: {{ post.citation }} </p>
+      {% elsif post.paperurl %}
+        <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
+      {% endif %}
+    </div>
+
+    {% if post.header.teaser %}
+      <div class="publication__figure">
+        <a href="{{ base_path }}{{ post.url }}" rel="permalink" tabindex="-1" aria-hidden="true">
+          <img src="{% if post.header.teaser contains '://' %}{{ post.header.teaser }}{% else %}{{ post.header.teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="Graphical abstract: {{ post.title | strip_html }}">
+        </a>
+      </div>
+    {% endif %}
+
+  </article>
+</div>

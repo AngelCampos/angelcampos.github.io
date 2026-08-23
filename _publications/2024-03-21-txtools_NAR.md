@@ -4,8 +4,9 @@ collection: articles
 permalink: /publication/2024-03-21_txtools_NAR
 excerpt: "We present txtools, an R package that enables the processing, analysis,
  and visualization of RNA-seq data at the nucleotide-level resolution, 
- seamlessly integrating alignments to the genome with transcriptomic representation.
- .<br/><br/><img src='/images/publications_figs/txtools_NAR.png'><br/>"
+ seamlessly integrating alignments to the genome with transcriptomic representation."
+header:
+  teaser: publications_figs/txtools_NAR.png
 date: 2024-03-21
 venue: 'Nucleic Acids Research'
 paperurl: 'https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkae203/7632932' 

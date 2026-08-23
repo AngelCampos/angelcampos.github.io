@@ -2,8 +2,9 @@
 title: "Passive shaping of intra-and intercellular m6A dynamics via mRNA metabolism"
 collection: articles
 permalink: /publication/2025-06-30_passm6ADynamics_eLife
-excerpt: "eLife assessment: This study presents a fundamental finding on how levels of m6A levels are controlled, invoking a consolidated model where degradation of modified RNAs in the cytoplasm plays a primary role in shaping m6A patterns and dynamics, rather than needing active regulation by m6A erasers and other related processes. The evidence is compelling through its use of transcriptome-wide data and mechanistic modeling. Relevant for any reader with an interest in RNA metabolism, this new framework consolidates previous observations and highlights the importance of careful experimentation for evaluation m6A levels.
- .<br/><br/><img src='/images/publications_figs/psm6adynam.png'><br/>"
+excerpt: "eLife assessment: This study presents a fundamental finding on how levels of m6A levels are controlled, invoking a consolidated model where degradation of modified RNAs in the cytoplasm plays a primary role in shaping m6A patterns and dynamics, rather than needing active regulation by m6A erasers and other related processes. The evidence is compelling through its use of transcriptome-wide data and mechanistic modeling. Relevant for any reader with an interest in RNA metabolism, this new framework consolidates previous observations and highlights the importance of careful experimentation for evaluation m6A levels."
+header:
+  teaser: publications_figs/psm6adynam.png
 date: 2025-06-30
 venue: 'eLife'
 paperurl: 'https://elifesciences.org/articles/100448' 

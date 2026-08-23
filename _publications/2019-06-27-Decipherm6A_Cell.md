@@ -2,7 +2,9 @@
 title: "Deciphering the “m6A Code” via Antibody-Independent Quantitative Profiling"
 collection: articles
 permalink: /publication/2019-06-27_DecipherM6A_Cell
-excerpt: "In this paper we present a method to quantify m6a using an m6a sensitive endonuclease, and uncover the mechanistic behaviour of methylation trough a simple and conserved code in cis.<br/><br/><img src='/images/publications_figs/MAZTERseq.png'><br/>"
+excerpt: "In this paper we present a method to quantify m6a using an m6a sensitive endonuclease, and uncover the mechanistic behaviour of methylation trough a simple and conserved code in cis."
+header:
+  teaser: publications_figs/MAZTERseq.png
 date: 2019-06-27
 venue: 'Cell'
 paperurl: 'https://www.cell.com/cell/fulltext/S0092-8674(19)30676-2' 

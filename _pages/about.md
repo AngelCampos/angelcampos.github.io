@@ -72,6 +72,7 @@ e=d.getElementsByTagName(s)[0];e.parentNode.insertBefore(i, e);
 
 ## Status Updates
 
+* **21-Jul-2026 - Published preprint:** Vignolini. T. et al., [A variant rRNA serves as a translational repressor in Plasmodium falciparum](https://www.biorxiv.org/content/10.64898/2026.06.17.732804v2){:target="_blank"}.
 * **26-December-2025 - News Media coverage:** Coverage of my work in [The Times of Israel](https://www.timesofisrael.com/israeli-scientists-say-tiny-organisms-can-revamp-their-own-rna-to-survive-extreme-heat/){:target="_blank"}.
 * **26-November-2025 - Published work:** Garcia-Campos, M.A., et al. ["Pan-modification profiling facilitates a cross-evolutionary dissection of the thermoregulated ribosomal epitranscriptome"](https://www.cell.com/cell/abstract/S0092-8674(25)01082-7){:target="_blank"} *Cell* (2025).
 * **30-June-2025 - Published work:** Dierks D., et al. ["Passive shaping of intra- and intercellular m6A dynamics via mRNA metabolism"](https://elifesciences.org/articles/100448){:target="_blank"} *eLife* (2025).
