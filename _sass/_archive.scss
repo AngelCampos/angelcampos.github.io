@@ -59,7 +59,7 @@
 
 .archive__item-excerpt {
   margin-top: 0;
-  font-size: $type-size-10;
+  font-size: $type-size-6;
 
   & + p {
     text-indent: 0;
@@ -252,6 +252,16 @@
    Below $small (600px) the figure simply stays in flow, under the text. */
 
 .publication__item {
+
+  /* two classes deep so these beat `.archive__item-excerpt`
+     and `.page__content p { font-size: 1em }`*/
+  .archive__item-excerpt {
+    font-size: $type-size-5; /* body size*/
+  }
+
+  .publication__citation {
+    font-size: 8px;
+  }
 
   .publication__figure {
     margin: 1em 0;
